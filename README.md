@@ -1,14 +1,16 @@
 # dotfiles
  my dotfiles 
 
-# Foot
+# Foot (in progress)
 foot.ini based of of ericmurpheyxyz's foot config. Only changed colorscheme. 
+EXRTREMELY BUGGY. FILLED WITH ERRORS>
 
 # OBS
 my scenes in obs
 
 # Kitty
-transparent theme nice text too.
+ Black, transparent theme nice text too.
+Simple but beatifull.
 
 # Zellij
 makes it work with fish
