@@ -1,5 +1,7 @@
 # dotfiles
  my dotfiles 
+# [**Tour Video**](https://www.youtube.com/watch?v=EhvIk6o-xW0&t=5s)
+
 
 # Foot (in progress)
 foot.ini based of of ericmurpheyxyz's foot config. Only changed colorscheme. 
